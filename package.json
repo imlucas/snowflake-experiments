@@ -1,0 +1,8 @@
+{
+  "name": "snowflake",
+  "version": "0.0.0",
+  "description": "Snowflake ID generation",
+  "main": "snowflake.js",
+  "private": true,
+  "gypfile": true
+}

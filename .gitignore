@@ -12,3 +12,6 @@ logs
 results
 
 npm-debug.log
+v8.log
+build/
+.DS_Store
